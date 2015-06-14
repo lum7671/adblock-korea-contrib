@@ -1,4 +1,6 @@
 [AdBlock Plus 1.1]
+! Homepage: https://github.com/gfmaster/adblock-korea-contrib/
+! Expires: 7 days
 newspim.com##div[id="ticket_banner"]
 ppomppu.co.kr###pp_ban_bbs_view
 tvzil.*###adArea
