@@ -50,6 +50,8 @@ channel.pandora.tv###pause_banner_Big
 @@||imgcdn.pandora.tv/_ptv_all/player/pandora.ad.v2.js
 ||www.pandora.tv/gnb/gnb.ptv
 @@||hayan.tv/jquery.cookie.js
+||www.chol.com/common/img/popup_*.jpg
+www.chol.com###pop_eventS
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Filters imported from https://code.google.com/p/adblock-korea/ under permission
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
