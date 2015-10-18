@@ -54,8 +54,27 @@ s-m.primary.ebs.co.kr##DIV[class="banner_img"]
 ||channel.pandora.tv/channel_v1/ad_frame.ptv
 channel.pandora.tv###pause_banner_Big
 @@||imgcdn.pandora.tv/_ptv_all/player/pandora.ad.v2.js
-||www.pandora.tv/gnb/gnb.ptv
 @@||hayan.tv/jquery.cookie.js
+||www.chol.com/common/img/popup_*.jpg
+www.chol.com###pop_eventS
+www.etnews.com###promotionBanner
+||channel.pandora.tv/channel_v1/ad_frame.ptv?adtype=pauseAd
+www.fnnews.com###bylineaAd1
+cast.wowtv.co.kr##.wrap-issueplus
+cast.wowtv.co.kr###contact_list_ver
+cast.wowtv.co.kr###article_cont > div:nth-of-type(2)
+cast.wowtv.co.kr###article > .top_sub_top_area
+cast.wowtv.co.kr###wrap > .topbanner
+cast.wowtv.co.kr###aside > .clear.box_bottom.common_AD
+www.wowtv.co.kr##.wrap-issueplus
+www.wowtv.co.kr###article > .top_sub_top_area > div:nth-of-type(2)
+www.wowtv.co.kr###wrap > .topbanner
+www.wowtv.co.kr###article_cont > div:nth-of-type(2)
+news.chosun.com###csWrap > .art_ad_top
+news.chosun.com###csContent > .news_aside > .art_ad_aside
+www.chosun.com###sec_headline > .sec_sub > .sec_headline_adbox
+www.chosun.com###sec_health > .sec_sub > .sec_sub_ad
+
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ! Filters imported from https://code.google.com/p/adblock-korea/ under permission
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -483,7 +502,6 @@ _realclick
 ||chango.com^$third-party
 ||channel.pandora.tv/data/mo/msg.htm^
 ||checklara.com^
-||chosun.com/event/GnbPromotion/
 ||christianitydaily.com/data/banners/banner_
 ||christianitydaily.com/script/count.php^
 ||christiantoday.co.kr/advertise/
