@@ -2,6 +2,7 @@
 ! Title: Korean Adblock List
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/gfmaster/adblock-korea-contrib
+||ams.rmcnmv.naver.com^
 comic.naver.com##div[id^=ppl]
 avsnoop.de###bottomBanner
 avsnoop.de###adArea
