@@ -1434,7 +1434,6 @@ _realclick
 ||msn.com/c.gif^
 ||news.tf.co.kr/public/js/2012/ss.ad.js
 ||news.tf.co.kr/ad/call^
-||developers.kakao.com/sdk/js/kakao.min.js
 ##.ad250_outter
 ##.adsbygoogle
 ##.google_ad
