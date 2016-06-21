@@ -181,7 +181,6 @@ www.chosun.com###sec_health > .sec_sub > .sec_sub_ad
 /tracker.tsp^
 /tracker_czn.tsp^
 /urchin.js
-/wcslog.js^
 /web/count/counter.php
 /weblog.
 /weblog/gtracker.js
