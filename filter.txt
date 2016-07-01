@@ -159,6 +159,7 @@ www.chosun.com###sec_health > .sec_sub > .sec_sub_ad
 /neoems/sts/stsInsert.neo^
 /omniture.js
 /omniture/
+@@/omniture/$script,domain=goal.com
 /openads/adjs.php^
 /openads/adx.js
 /overture/
@@ -182,6 +183,7 @@ www.chosun.com###sec_health > .sec_sub > .sec_sub_ad
 /tracker_czn.tsp^
 /urchin.js
 /wcslog.js^
+@@/wcslog.js$script,domain=m.tvcast.naver.com
 /web/count/counter.php
 /weblog.
 /weblog/gtracker.js
@@ -1126,7 +1128,6 @@ _realclick
 ||pcclear.com^$third-party
 ||pdssite.net^
 ||people.incruit.com/g_common/clientscript/ADservice.js
-||performgroup.com^
 ||pg.dacom.net/common/mailReceiveCheck.jsp^
 ||pgdownload.uplus.co.kr/images/mail/new/banner_
 ||phopler.com/InsAdClkAction.xrs^
@@ -1434,7 +1435,6 @@ _realclick
 ||msn.com/c.gif^
 ||news.tf.co.kr/public/js/2012/ss.ad.js
 ||news.tf.co.kr/ad/call^
-||developers.kakao.com/sdk/js/kakao.min.js
 ##.ad250_outter
 ##.adsbygoogle
 ##.google_ad
