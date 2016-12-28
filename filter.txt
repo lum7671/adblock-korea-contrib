@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/gfmaster/adblock-korea-contrib
 ||ams.rmcnmv.naver.com^
 comic.naver.com##div[id^=ppl]
+naver.com##div[id^=promotion]
 avsnoop.de###bottomBanner
 avsnoop.de###adArea
 avsnoop.de###side > .inner > .banner:nth-of-type(3)
@@ -155,7 +156,6 @@ www.chosun.com###sec_health > .sec_sub > .sec_sub_ad
 /nalog/nalogd.php^
 /nalog5/nalogd.php^
 /nalogd.js
-/naon/
 /neoems/sts/stsInsert.neo^
 /omniture.js
 /omniture/
@@ -1460,7 +1460,7 @@ hankyung.com##.articleAD_L
 heraldcorp.com##DIV.subpg_news_body > DIV[style="float:right; margin-left:10px;border:1px solid #DED7D7;width:200px;height:200px;"]:first-child
 heraldcorp.com##[class^="subtop_"]
 huffingtonpost.kr##.ad_wrapper
-joins.com##[class^="ad_"]
+! joins.com##[class^="ad_"]
 joins.com##[id^="div_biz_link"]
 joins.com,joinsmsn.com###\5f _inline_ms_da_ad__
 kookje.co.kr###news_textArea > DIV[style="clear:both;position:relative;width:468px;height:60px;background:#FFF;border:1px solid #999999;margin:10px auto;z-index:0"]
