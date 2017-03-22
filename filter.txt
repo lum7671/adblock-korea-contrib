@@ -265,6 +265,7 @@ _realclick
 ||ad.metanetwork.com/st^
 ||ad.naver.com/admobile^
 ||ad.naver.com/adshow^
+||ad.naver.com/fxshow
 ||ad.newsen.com/banner/
 ||ad.ohmynews.com/adhtmllist/adtv_
 ||ad.pickple.com/widget/
