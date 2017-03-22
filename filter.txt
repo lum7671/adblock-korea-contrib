@@ -1497,3 +1497,7 @@ ygosu.com##.ad700
 inven.co.kr###dhoAdTop
 inven.co.kr###webzineAdTop
 ||img.etnews.com/*/banner/
+
+! 광고 둘러싸는 객체
+www.naver.com###veta_top
+www.naver.com###veta_branding
